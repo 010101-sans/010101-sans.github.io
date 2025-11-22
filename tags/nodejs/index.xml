@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Nodejs on 010101-sans</title>
-    <link>https://010101-sans.github.io/tags/nodejs/</link>
-    <description>Recent content in Nodejs on 010101-sans</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 14:20:00 +0000</lastBuildDate>
-    <atom:link href="https://010101-sans.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Task Management System</title>
-      <link>https://010101-sans.github.io/projects/task-management-system/</link>
-      <pubDate>Mon, 15 Jan 2024 14:20:00 +0000</pubDate>
-      <guid>https://010101-sans.github.io/projects/task-management-system/</guid>
-      <description>&lt;p&gt;A collaborative task management web application for teams.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nodejs on 010101-sans</title><link>https://010101-sans.github.io/tags/nodejs/</link><description>Recent content in Nodejs on 010101-sans</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 14:20:00 +0000</lastBuildDate><atom:link href="https://010101-sans.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml"/><item><title>Task Management System</title><link>https://010101-sans.github.io/projects/task-management-system/</link><pubDate>Mon, 15 Jan 2024 14:20:00 +0000</pubDate><guid>https://010101-sans.github.io/projects/task-management-system/</guid><description>&lt;p&gt;A collaborative task management web application for teams.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Real-time collaboration&lt;/li&gt;
 &lt;li&gt;Task assignment and tracking&lt;/li&gt;
@@ -22,15 +7,12 @@
 &lt;li&gt;Activity timeline&lt;/li&gt;
 &lt;li&gt;Multiple view options (list, board, timeline)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;h2 id="tech-stack"&gt;Tech Stack&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: React with TypeScript&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Node.js + Express&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Database&lt;/strong&gt;: PostgreSQL&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Real-time&lt;/strong&gt;: WebSockets&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
-&lt;p&gt;Used by 500+ teams managing 100,000+ tasks monthly.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;h2 id="results"&gt;Results&lt;/h2&gt;
+&lt;p&gt;Used by 500+ teams managing 100,000+ tasks monthly.&lt;/p&gt;</description></item></channel></rss>
